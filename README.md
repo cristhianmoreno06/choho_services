@@ -12,7 +12,7 @@ Antes de comenzar, asegúrate de tener instalado lo siguiente en tu sistema:
 # Pasos de instalación
 Sigue los siguientes pasos para configurar el proyecto API Laravel en tu entorno local:
 
-1. Clona el repositorio del proyecto desde GitHub o extrae el archivo ZIP.
+1. Clona el repositorio del proyecto desde GitHub `https://github.com/cristhianmoreno06/choho_services.git` o extrae el archivo ZIP.
 
 2. Abre una terminal y navega hasta el directorio raíz del proyecto clonado.
 
